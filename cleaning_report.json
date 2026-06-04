@@ -1,0 +1,82 @@
+{
+  "groups": [
+    {
+      "groupId": 0,
+      "records": [
+        {
+          "tsid": "Arc_012",
+          "dataSetName": "Arc-Tornetrask.Melvin.2012",
+          "decision": "keep"
+        },
+        {
+          "tsid": "Arc_012mxd",
+          "dataSetName": "Arc-Tornetrask.Melvin.2012",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 1,
+      "records": [
+        {
+          "tsid": "SAm_015",
+          "dataSetName": "SAm-CentralAndes6.Villalba.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SAm_011",
+          "dataSetName": "SAm-CentralAndes6.Villalba.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SAm_012",
+          "dataSetName": "SAm-CentralAndes6.Villalba.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SAm_013",
+          "dataSetName": "SAm-CentralAndes6.Villalba.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SAm_014",
+          "dataSetName": "SAm-CentralAndes6.Villalba.2014",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    },
+    {
+      "groupId": 2,
+      "records": [
+        {
+          "tsid": "SAm_020",
+          "dataSetName": "SAm-CentralAndes9.Mundo.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SAm_016",
+          "dataSetName": "SAm-CentralAndes9.Mundo.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SAm_017",
+          "dataSetName": "SAm-CentralAndes9.Mundo.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SAm_018",
+          "dataSetName": "SAm-CentralAndes9.Mundo.2014",
+          "decision": "keep"
+        },
+        {
+          "tsid": "SAm_019",
+          "dataSetName": "SAm-CentralAndes9.Mundo.2014",
+          "decision": "keep"
+        }
+      ],
+      "notes": null
+    }
+  ]
+}
